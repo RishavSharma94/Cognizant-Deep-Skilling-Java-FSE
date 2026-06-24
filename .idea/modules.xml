@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Cognizant-Deep-Skilling-Java-FSE.iml" filepath="$PROJECT_DIR$/Cognizant-Deep-Skilling-Java-FSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1_Excercises/SLF4J-Logging-Framework/Excercise1_Logging-Errors-Message/Excercise1_Logging-Errors-Message.iml" filepath="$PROJECT_DIR$/Week1_Excercises/SLF4J-Logging-Framework/Excercise1_Logging-Errors-Message/Excercise1_Logging-Errors-Message.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1_Excercises/TDD-using-JUnit5-and-Mocktio/Mockito-excercise/Exercise2-Verifying-Interactions/Exercise2-Verifying-Interactions.iml" filepath="$PROJECT_DIR$/Week1_Excercises/TDD-using-JUnit5-and-Mocktio/Mockito-excercise/Exercise2-Verifying-Interactions/Exercise2-Verifying-Interactions.iml" />
     </modules>
   </component>
