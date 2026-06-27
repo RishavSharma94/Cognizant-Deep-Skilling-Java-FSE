@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/Week1_Excercises/TDD-using-JUnit5-and-Mocktio/Mockito-excercise/Exercise1-Mocking-and-Stubbing/pom.xml" />
         <option value="$PROJECT_DIR$/Week1_Excercises/TDD-using-JUnit5-and-Mocktio/Mockito-excercise/Exercise2-Verifying-Interactions/pom.xml" />
         <option value="$PROJECT_DIR$/Week1_Excercises/SLF4J-Logging-Framework/Excercise1_Logging-Errors-Message/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2_Excercises/Spring Core_Maven/Excercise1_Configuring_Basic_Spring_Application/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2_Excercises/Spring Core_Maven/Excercise2_Implementing_Dependency_Injection/pom.xml" />
       </list>
     </option>
   </component>
