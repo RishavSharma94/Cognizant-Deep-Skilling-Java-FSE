@@ -12,6 +12,13 @@
         <option value="$PROJECT_DIR$/Week1_Excercises/SLF4J-Logging-Framework/Excercise1_Logging-Errors-Message/pom.xml" />
         <option value="$PROJECT_DIR$/Week2_Excercises/Spring Core_Maven/Excercise1_Configuring_Basic_Spring_Application/pom.xml" />
         <option value="$PROJECT_DIR$/Week2_Excercises/Spring Core_Maven/Excercise2_Implementing_Dependency_Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2_Excercises/Spring-Data-JPA-with-SpringBoot_Hibernate/Difference_between_JPA_Hibernate_and_SpringData_JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2_Excercises/Spring-Data-JPA-with-SpringBoot_Hibernate/Spring_Data_JPA-QuickExample/pom.xml" />
+        <option value="$PROJECT_DIR$/week3_Excercises/SpringREST_using_SpringBoot3/spring-rest-handson/SpringCore-Load-Country-from-Spring_ConfigurationXML/pom.xml" />
+        <option value="$PROJECT_DIR$/week3_Excercises/SpringREST_using_SpringBoot3/spring-rest-handson/Hello_World_RESTful_WebService/pom.xml" />
+        <option value="$PROJECT_DIR$/week3_Excercises/SpringREST_using_SpringBoot3/spring-rest-handson/REST-Country-Web-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/week3_Excercises/SpringREST_using_SpringBoot3/spring-rest-handson/REST-Get-Country-based-on-CountryCode/pom.xml" />
+        <option value="$PROJECT_DIR$/week3_Excercises/SpringREST_using_SpringBoot3/JWT-handson/Create_authentication_service_that_returns-JWT/pom.xml" />
       </list>
     </option>
   </component>
