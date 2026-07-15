@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/week3_Excercises/SpringREST_using_SpringBoot3/spring-rest-handson/REST-Country-Web-Service/pom.xml" />
         <option value="$PROJECT_DIR$/week3_Excercises/SpringREST_using_SpringBoot3/spring-rest-handson/REST-Get-Country-based-on-CountryCode/pom.xml" />
         <option value="$PROJECT_DIR$/week3_Excercises/SpringREST_using_SpringBoot3/JWT-handson/Create_authentication_service_that_returns-JWT/pom.xml" />
+        <option value="$PROJECT_DIR$/week4_Excercises/Microservices_with_SpringBoot3_and_SpringCloud/Microservices_with_API_gateway/Authentication-service-that-returnsJWT/pom.xml" />
       </list>
     </option>
   </component>

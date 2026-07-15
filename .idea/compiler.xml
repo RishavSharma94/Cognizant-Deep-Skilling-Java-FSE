@@ -10,6 +10,7 @@
         <module name="Exercise2-Verifying-Interactions" />
         <module name="Exercise1-Mocking-and-Stubbing" />
         <module name="Create_authentication_service_that_returns-JWT" />
+        <module name="authentication-service" />
         <module name="handson4" />
         <module name="exercise3" />
         <module name="exercise1" />
@@ -26,8 +27,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Create_authentication_service_that_returns-JWT" options="-parameters" />
       <module name="REST-Country-Web-Service" options="-parameters" />
       <module name="REST-Get-Country-based-on-CountryCode" options="-parameters" />
+      <module name="authentication-service" options="-parameters" />
       <module name="handson4" options="-parameters" />
     </option>
   </component>
